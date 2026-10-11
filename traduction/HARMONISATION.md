@@ -1,0 +1,11 @@
+- Great Father : long_04 « Père suprême » / long_06 « Grand Père » → choisir « Père suprême »
+- Ever-World (04) → « l'Autre-Monde » ; Corpsevale (06) → « Val-aux-Morts » ; Hagia Banhamuba → « l'hagia de Banhamuba »
+- Princess's Mark (06) → « Sceau de la princesse » : aligner avec terms_A
+- Dark (élément) → « Ombre » (terms_B) ; Skills → « Comp. »
+- high champion : « haut champion » (04,05) / « champion suprême » (14) / « grand champion » → choisir « haut champion »
+- wyrm → dragon (22)
+- Corpsevale : « Val-aux-Morts » (06) / « Val des Cadavres » (13) → « Val-aux-Morts »
+- Wicce et Witch → tous deux « Sorcière » : différencier
+- Descriptions (19/20/21) : « Peut causer » vs « Peut infliger » ; états nom (ÉTOURDISSEMENT) vs adj (ÉTOURDI) ; UMBRA → OMBRALE/UMBRA/ombre ; MULTIPLE TARGETS → PLUSIEURS CIBLES / CIBLES MULTIPLES
+- Fool tarot : « Le Mat » vs « Fou » (Piège du Mat)
+- Ozma : « Le Chevalier Noir Ozma » → féminiser (« La Chevalière Noire Ozma ») ; Flamescale « Écaille feu » vs Firescale « Écaille de feu »

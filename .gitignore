@@ -1,0 +1,8 @@
+# Données du jeu : ne jamais les publier
+*.iso
+*.ISO
+*.BIN
+*.font
+units.json
+__pycache__/
+.DS_Store
