@@ -1,0 +1,33 @@
+name: Erreur de traduction
+description: Signaler une faute, un contresens, un texte coupé ou resté en anglais
+labels: ["traduction"]
+body:
+  - type: textarea
+    id: texte
+    attributes:
+      label: Texte affiché en jeu
+      description: Recopiez le texte tel qu'il apparaît (une capture d'écran aide beaucoup).
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: Correction proposée
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type de problème
+      options:
+        - Faute / coquille
+        - Contresens ou formulation maladroite
+        - Texte coupé ou qui déborde
+        - Texte resté en anglais
+        - Incohérence (nom, terme, tu/vous)
+        - Plantage ou bug
+    validations:
+      required: true
+  - type: input
+    id: ou
+    attributes:
+      label: Où dans le jeu ?
+      description: Chapitre, lieu, menu…
