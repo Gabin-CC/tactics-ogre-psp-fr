@@ -1,5 +1,9 @@
 # Tactics Ogre: Let Us Cling Together (PSP) — traduction française
 
+### ⬇️ [Télécharger le patch / Download the patch (v1.0)](https://github.com/Gabin-CC/tactics-ogre-psp-fr/releases/latest)
+
+> 🇬🇧 **English:** complete, unofficial French fan translation of the PSP remake (EU version, **ULES01500**), tested on PPSSPP. Apply the xdelta patch to **a dump of your own legally acquired copy** of the game. No game data is distributed here.
+
 Traduction française non officielle du remake PSP de *Tactics Ogre: Let Us Cling Together* (version européenne **ULES01500**), avec les outils qui ont servi à extraire et réinjecter le texte.
 
 <p align="center">
@@ -7,11 +11,11 @@ Traduction française non officielle du remake PSP de *Tactics Ogre: Let Us Clin
   <img src="docs/saisie-nom.png" width="49%" alt="Écran de saisie du nom en français">
 </p>
 
-> Ce projet ne contient aucune donnée du jeu. Il vous faut votre propre copie (ISO) de la version européenne.
+> Ce projet ne contient aucune donnée du jeu : le patch s'applique à **un dump de votre propre exemplaire**, acquis légalement, de la version européenne.
 
 ## Installation (joueurs)
 
-1. Procurez-vous l'ISO européenne d'origine : `Tactics Ogre - Let Us Cling Together (Europe).iso`, MD5 `117128cc924f8f42a88d775ce2b809e8`.
+1. Faites un dump de votre propre UMD européen du jeu (ISO `Tactics Ogre - Let Us Cling Together (Europe).iso`, MD5 `117128cc924f8f42a88d775ce2b809e8`).
 2. Téléchargez le patch depuis la [dernière release](https://github.com/Gabin-CC/tactics-ogre-psp-fr/releases/latest) (ou [`patch/`](patch/)) et appliquez-le :
    - Windows : [Delta Patcher](https://github.com/marco-calautti/DeltaPatcher) ou xdeltaUI ;
    - macOS / Linux : `xdelta3 -d -s "ISO originale.iso" Tactics_Ogre_PSP_FR.xdelta "Tactics Ogre (FR).iso"`.
